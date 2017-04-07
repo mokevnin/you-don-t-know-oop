@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Пролог](README.md)
+* [Благодарности](chapter1.md)
+
