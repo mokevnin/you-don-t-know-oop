@@ -9,4 +9,5 @@
 * [Алан Кай](alan-kai.md)
 * [Гради Буч](gradi-buch.md)
 * [О паттернах](patterni.md)
+* [Адаптер](adapter.md)
 
