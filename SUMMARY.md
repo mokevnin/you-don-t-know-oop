@@ -8,6 +8,7 @@
 * [Состояние](sostoyanie.md)
 * [Алан Кай](alan-kai.md)
 * [Гради Буч](gradi-buch.md)
+* [ООП](oop.md)
 * [О паттернах](patterni.md)
 * [Адаптер](adapter.md)
 
