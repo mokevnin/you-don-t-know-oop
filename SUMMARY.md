@@ -6,7 +6,7 @@
 * [Синхронизация](sinhronizatsiya.md)
 * [Абстракция](abstractions.md)
 * [Состояние](sostoyanie.md)
-* Точечная нотация
+* [Точечная нотация](tochechnaya-notatsiya.md)
 * [Алан Кай](alan-kai.md)
 * [Гради Буч](gradi-buch.md)
 * [ООП](oop.md)
