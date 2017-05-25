@@ -42,7 +42,7 @@ const area = getRectangleArea(a, b);
 const segment1 = [1, 10, 5, 2];
 const segment2 = [-5, 0, 9, 10];
 const startPoint1 = getStartPoint(segment1); // [1, 10]
-const hasIntersection = hasIntersection(segment1, segment2);
+const crossed = hasIntersection(segment1, segment2);
 const rotatedSegment = rotate(10, segment1);
 ```
 
