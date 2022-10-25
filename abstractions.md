@@ -76,6 +76,8 @@ const makeSegment = (point1, point2) => (message) => {
   }
 };
 
+const makePoint = (x, y) => [x, y]
+
 const getStartPoint = segment => segment('getStartPoint');
 
 // Использование
